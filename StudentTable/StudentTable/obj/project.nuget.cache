@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6JiG/hZT4g=",
+  "dgSpecHash": "zIQvyUzGB9Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\010ya\\source\\repos\\StudentTable\\StudentTable\\StudentTable.csproj",
+  "projectFilePath": "C:\\Users\\010ya\\OneDrive\\Desktop\\goa ent\\git uploads\\studenttable\\StudentTable\\StudentTable\\StudentTable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\010ya\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\010ya\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

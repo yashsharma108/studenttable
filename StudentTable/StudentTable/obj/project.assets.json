@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\010ya\\source\\repos\\StudentTable\\StudentTable\\StudentTable.csproj",
+      "projectUniqueName": "C:\\Users\\010ya\\OneDrive\\Desktop\\goa ent\\git uploads\\studenttable\\StudentTable\\StudentTable\\StudentTable.csproj",
       "projectName": "StudentTable",
-      "projectPath": "C:\\Users\\010ya\\source\\repos\\StudentTable\\StudentTable\\StudentTable.csproj",
+      "projectPath": "C:\\Users\\010ya\\OneDrive\\Desktop\\goa ent\\git uploads\\studenttable\\StudentTable\\StudentTable\\StudentTable.csproj",
       "packagesPath": "C:\\Users\\010ya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\010ya\\source\\repos\\StudentTable\\StudentTable\\obj\\",
+      "outputPath": "C:\\Users\\010ya\\OneDrive\\Desktop\\goa ent\\git uploads\\studenttable\\StudentTable\\StudentTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\010ya\\AppData\\Roaming\\NuGet\\NuGet.Config",

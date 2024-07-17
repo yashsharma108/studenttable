@@ -10,6 +10,7 @@ namespace StudentTable.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    
     public class InstructorsController : ControllerBase
     {
         private readonly SchoolDbContext _db;
